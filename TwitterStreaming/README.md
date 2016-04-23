@@ -2,6 +2,7 @@
 ===========================================
 **1.** run src/twitter_streaming.py : spark-submit dir/src/twitter_streaming.py
 - sample results
+"""
 -------------------------------------------
 Time: 2016-04-22 22:06:00
 -------------------------------------------
@@ -17,5 +18,7 @@ Time: 2016-04-22 22:06:20
 -------------------------------------------
 {"user_id": 696798184945926144, "screen_name": "ifimayinterject", "timestamp": "2016-04-23T05:05:58", "hashtags": [], "text": "@SNTranquillo isn't it \"Quick's\" job to stop the puck? https://t.co/7tCZg7wliK", "geo": null, "id": 723739671021281283}
 ......
+"""
 
+**2.** Kmean cluster of locations
 
