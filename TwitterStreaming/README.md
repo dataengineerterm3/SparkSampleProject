@@ -1,7 +1,7 @@
 ###Twitter Streaming Geo Tracking
 ===========================================
 **1.** run src/twitter_streaming.py : spark-submit dir/src/twitter_streaming.py
-- sample results
+* sample results
 """
 -------------------------------------------
 Time: 2016-04-22 22:06:00
