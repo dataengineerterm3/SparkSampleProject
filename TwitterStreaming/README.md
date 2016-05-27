@@ -24,3 +24,5 @@ Time: 2016-04-22 22:06:20
 
 **2.** Kmean cluster of locations
 
+**3.** Interesting stuffs
+- DStream [readings](https://github.com/lw-lin/CoolplaySpark/blob/master/Spark%20Streaming%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E7%B3%BB%E5%88%97/1.1%20DStream%2C%20DStreamGraph%20%E8%AF%A6%E8%A7%A3.md)
